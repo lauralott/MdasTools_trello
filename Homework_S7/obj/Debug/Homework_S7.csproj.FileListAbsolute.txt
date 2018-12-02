@@ -1,0 +1,17 @@
+C:\Users\Laura\Dropbox\MDAS\Herramientas de desarrollo\Homework_Session7\Homework_S7\Homework_S7\bin\Debug\Homework_S7.exe.config
+C:\Users\Laura\Dropbox\MDAS\Herramientas de desarrollo\Homework_Session7\Homework_S7\Homework_S7\bin\Debug\Homework_S7.exe
+C:\Users\Laura\Dropbox\MDAS\Herramientas de desarrollo\Homework_Session7\Homework_S7\Homework_S7\bin\Debug\Homework_S7.pdb
+C:\Users\Laura\Dropbox\MDAS\Herramientas de desarrollo\Homework_Session7\Homework_S7\Homework_S7\bin\Debug\Manatee.Json.dll
+C:\Users\Laura\Dropbox\MDAS\Herramientas de desarrollo\Homework_Session7\Homework_S7\Homework_S7\bin\Debug\Manatee.Trello.dll
+C:\Users\Laura\Dropbox\MDAS\Herramientas de desarrollo\Homework_Session7\Homework_S7\Homework_S7\bin\Debug\System.ValueTuple.dll
+C:\Users\Laura\Dropbox\MDAS\Herramientas de desarrollo\Homework_Session7\Homework_S7\Homework_S7\bin\Debug\Manatee.Json.xml
+C:\Users\Laura\Dropbox\MDAS\Herramientas de desarrollo\Homework_Session7\Homework_S7\Homework_S7\bin\Debug\Manatee.Trello.xml
+C:\Users\Laura\Dropbox\MDAS\Herramientas de desarrollo\Homework_Session7\Homework_S7\Homework_S7\bin\Debug\System.ValueTuple.xml
+C:\Users\Laura\Dropbox\MDAS\Herramientas de desarrollo\Homework_Session7\Homework_S7\Homework_S7\obj\Debug\Homework_S7.csprojAssemblyReference.cache
+C:\Users\Laura\Dropbox\MDAS\Herramientas de desarrollo\Homework_Session7\Homework_S7\Homework_S7\obj\Debug\Homework_S7.Form1.resources
+C:\Users\Laura\Dropbox\MDAS\Herramientas de desarrollo\Homework_Session7\Homework_S7\Homework_S7\obj\Debug\Homework_S7.Properties.Resources.resources
+C:\Users\Laura\Dropbox\MDAS\Herramientas de desarrollo\Homework_Session7\Homework_S7\Homework_S7\obj\Debug\Homework_S7.csproj.GenerateResource.cache
+C:\Users\Laura\Dropbox\MDAS\Herramientas de desarrollo\Homework_Session7\Homework_S7\Homework_S7\obj\Debug\Homework_S7.csproj.CoreCompileInputs.cache
+C:\Users\Laura\Dropbox\MDAS\Herramientas de desarrollo\Homework_Session7\Homework_S7\Homework_S7\obj\Debug\Homework_S7.csproj.CopyComplete
+C:\Users\Laura\Dropbox\MDAS\Herramientas de desarrollo\Homework_Session7\Homework_S7\Homework_S7\obj\Debug\Homework_S7.exe
+C:\Users\Laura\Dropbox\MDAS\Herramientas de desarrollo\Homework_Session7\Homework_S7\Homework_S7\obj\Debug\Homework_S7.pdb
